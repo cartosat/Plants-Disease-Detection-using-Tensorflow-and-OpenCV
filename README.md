@@ -5,6 +5,8 @@ Use PlantVillage Dataset from kaggle.Link Below
 
 Dataset Link :- https://www.kaggle.com/emmarex/plantdisease
 
+While cloning this repo please use `git-lfs` commands. Quick Link :- https://docs.gitlab.com/ee/topics/git/lfs/
+
 use google colab to train model.
 
 use google drive to mount dataset.
